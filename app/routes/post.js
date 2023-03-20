@@ -1,6 +1,6 @@
 /*const createPost = (req,res,next) => {
 
-	res.send('Hello from Node Js using Nodemon');
+	res.send('This is abhi ,, Js using Nodemon');
 };
 
 module.exports = {
